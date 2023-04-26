@@ -8,4 +8,6 @@ public class Cart {
     //deals
     //new changes on cart
 
+    //buy products
+
 }
